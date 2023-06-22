@@ -3,8 +3,11 @@
    License: none (public domain)
 */
 
+body {
+    background-color: black;
+}
+
 html,
-body,
 div,
 span,
 applet,
